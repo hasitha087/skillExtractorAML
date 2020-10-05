@@ -1,0 +1,9 @@
+{
+  "subscription_id": "subscription_id",
+  "resource_group": "resource_group",
+  "workspace_name": "workspace_name",
+  "location": "location",
+  "tenant_id": "tenant_id",
+  "service_principle_id": "service_principle_id",
+  "service_principle_password": "service_principle_password"
+}
